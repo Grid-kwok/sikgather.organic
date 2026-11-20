@@ -1,0 +1,1845 @@
+{
+  "text": {
+    "brand.name": [
+      "惜聚田耕",
+      "惜聚田耕",
+      "SikGather"
+    ],
+    "brand.tag": [
+      "浸大學生 · 推廣農墟",
+      "浸大学生 · 推广农墟",
+      "HKBU students · for the market"
+    ],
+    "nav.home": [
+      "主頁",
+      "首页",
+      "Home"
+    ],
+    "nav.why": [
+      "點解揀有機",
+      "为何选有机",
+      "Why Organic"
+    ],
+    "nav.facts": [
+      "有機冷知識",
+      "有机冷知识",
+      "Fun Facts"
+    ],
+    "nav.games": [
+      "迷你遊戲",
+      "迷你游戏",
+      "Mini Games"
+    ],
+    "nav.market": [
+      "農墟資料",
+      "农墟资料",
+      "The Market"
+    ],
+    "foot.ig": [
+      "📸 去我哋 Instagram 睇",
+      "📸 关注我们的 Instagram",
+      "📸 Follow us on Instagram"
+    ],
+    "foot.about": [
+      "香港浸會大學 Year 2 學生成立，想推廣中環農墟同本地有機菜。",
+      "由香港浸会大学二年级学生成立，希望推广中环农墟和本地有机菜。",
+      "Started by HKBU Year 2 students to share Central Farmer’s Market and local organic veg."
+    ],
+    "foot.explore": [
+      "逛逛",
+      "逛逛",
+      "Explore"
+    ],
+    "foot.visit": [
+      "嚟農墟見下面",
+      "来农墟见面",
+      "Come say hi"
+    ],
+    "foot.map": [
+      "📍 開地圖",
+      "📍 打开地图",
+      "📍 Open in Maps"
+    ],
+    "foot.made": [
+      "用 💚 做俾本地有機農夫",
+      "以 💚 为本地有机农夫而做",
+      "Made with 💚 for local organic farmers"
+    ],
+    "toast.soon": [
+      "🌱 呢個遊戲仲發緊芽，好快見！",
+      "🌱 这个游戏正在发芽中，很快见！",
+      "🌱 This game is still sprouting — back soon!"
+    ],
+    "hero.sub": [
+      "由田到檯，一齊惜食、聚埋、耕田",
+      "由田间到餐桌，一起惜食、聚首、耕耘",
+      "From field to fork — cherish, gather, grow"
+    ],
+    "hero.p": [
+      "我哋係浸大 Year 2 學生。想推廣中環農墟，等你識香港本地種嘅優質有機菜。",
+      "我们是浸会大学二年级学生。想推广中环农墟，让你认识香港本地种的优质有机菜。",
+      "We're HKBU Year 2 students. We're here to share Central Farmer’s Market and Hong Kong’s own organic veg."
+    ],
+    "hero.cta1": [
+      "🧺 識下農墟",
+      "🧺 认识农墟",
+      "🧺 Visit the market"
+    ],
+    "hero.cta2": [
+      "🎮 玩迷你遊戲",
+      "🎮 玩迷你游戏",
+      "🎮 Play mini games"
+    ],
+    "hero.scroll": [
+      "再落去睇 ↓",
+      "向下探索 ↓",
+      "scroll to explore ↓"
+    ],
+    "ribbon": [
+      [
+        "新鮮摘",
+        "本地種",
+        "有機耕",
+        "惜食",
+        "撐農夫",
+        "跟造食",
+        "少啲食物里程"
+      ],
+      [
+        "新鲜采摘",
+        "本地种植",
+        "有机耕作",
+        "惜食",
+        "支持农夫",
+        "跟季节吃",
+        "减少食物里程"
+      ],
+      [
+        "freshly picked",
+        "grown local",
+        "farmed organic",
+        "waste less",
+        "back your farmer",
+        "eat with the seasons",
+        "fewer food miles"
+      ]
+    ],
+    "about.eyebrow": [
+      "我哋係邊個",
+      "我们是谁",
+      "who we are"
+    ],
+    "about.title": [
+      "<span class='squiggle'>惜聚田耕</span>",
+      "<span class='squiggle'>惜聚田耕</span>",
+      "<span class='squiggle'>SikGather</span>"
+    ],
+    "about.lede": [
+      "我哋係一班香港浸會大學 Year 2 學生，成立「惜聚田耕」嘅初心，就係想推廣中環農墟（Central Farmer’s Market），帶大家認識香港本地種嘅優質有機菜。",
+      "我们是一班香港浸会大学二年级学生，成立「惜聚田耕」的初心，是希望推广中环农墟（Central Farmer’s Market），带大家认识香港本地种植的优质有机菜。",
+      "We’re Hong Kong Baptist University Year 2 students. We started SikGather to share Central Farmer’s Market, and to help people get to know quality organic veg grown in Hong Kong."
+    ],
+    "about.c1.t": [
+      "認識本地有機農業",
+      "认识本地有机农业",
+      "Get to know local organic farming"
+    ],
+    "about.c1.p": [
+      "泥、蜜蜂、輪種……輕鬆有趣咁，搞清楚可持續耕作背後嘅道理。",
+      "泥土、蜜蜂、轮作……用轻松有趣的方式，了解可持续耕作背后的道理。",
+      "Soil, bees, crop rotation… the ideas behind sustainable farming, minus the boring bits."
+    ],
+    "about.c2.t": [
+      "農夫教你煮",
+      "农夫亲授煮食",
+      "Cook like a farmer"
+    ],
+    "about.c2.p": [
+      "最識菜嘅人，就係種菜嗰個。跟住農夫推介嘅煮法，鮮味加倍。",
+      "最懂菜的人，就是种菜的人。跟着农夫推介的煮法，鲜味加倍。",
+      "Nobody knows veg like the people who grow it. Their tips make every bite taste better."
+    ],
+    "about.c3.t": [
+      "邊玩邊學",
+      "边玩边学",
+      "Play & learn"
+    ],
+    "about.c3.p": [
+      "迷你煮食遊戲、冷知識、小測驗，三分鐘就變有機達人。",
+      "迷你煮食游戏、冷知识、小测验，三分钟就变身有机达人。",
+      "Mini cooking games, fun facts and quizzes — become an organic pro in three minutes."
+    ],
+    "market.eyebrow": [
+      "每個禮拜嘅約會",
+      "每周约会",
+      "your weekly date"
+    ],
+    "market.title": [
+      "中環農墟",
+      "中环农墟",
+      "Central Farmer's Market"
+    ],
+    "market.lede": [
+      "喺海旁同本地農夫面對面，買啱啱由田摘落嚟嘅有機蔬果，順手問一句：「呢棵菜點煮最好食？」",
+      "在海旁与本地农夫面对面，买刚从田里摘下的有机蔬果，顺便问一句：「这棵菜怎么煮最好吃？」",
+      "Meet local farmers face-to-face by the harbour, pick up just-harvested organic produce, and ask: “What's the best way to cook this?”"
+    ],
+    "market.when": [
+      "幾時",
+      "时间",
+      "When"
+    ],
+    "market.where": [
+      "邊度",
+      "地点",
+      "Where"
+    ],
+    "market.who": [
+      "邊個搞",
+      "主办",
+      "Organised by"
+    ],
+    "market.stamp": [
+      "新鮮<br>直送",
+      "新鲜<br>直送",
+      "fresh<br>from farm"
+    ],
+    "market.next": [
+      "距離下一次農墟仲有…",
+      "距离下一次农墟还有…",
+      "Next market opens in…"
+    ],
+    "market.live": [
+      "中環農墟進行中 · 逢星期日 11:00–17:00",
+      "中环农墟进行中 · 逢星期日 11:00–17:00",
+      "Central market is on · Sundays 11:00–17:00"
+    ],
+    "cd.d": [
+      "天",
+      "天",
+      "days"
+    ],
+    "cd.h": [
+      "個鐘",
+      "小时",
+      "hrs"
+    ],
+    "cd.m": [
+      "分鐘",
+      "分钟",
+      "mins"
+    ],
+    "cd.s": [
+      "秒",
+      "秒",
+      "secs"
+    ],
+    "market.btn": [
+      "📍 點去農墟",
+      "📍 怎么去农墟",
+      "📍 Get directions"
+    ],
+    "market.ig": [
+      "📸 Instagram",
+      "📸 Instagram",
+      "📸 Instagram"
+    ],
+    "season.eyebrow": [
+      "農夫私房貼士",
+      "农夫私房贴士",
+      "farmer's secret tips"
+    ],
+    "season.title": [
+      "呢季食咩？",
+      "这季吃什么？",
+      "What's in season?"
+    ],
+    "season.lede": [
+      "香港嘅菜跟住天氣行。揀個季節，撳吓蔬菜，睇下農夫最推嘅煮法。",
+      "香港的菜跟着天气走。选一个季节，点一点蔬菜，看看农夫最推介的煮法。",
+      "Hong Kong veg follows the weather. Pick a season, tap a veggie and get the farmer's favourite way to cook it."
+    ],
+    "season.cool": [
+      "❄️ 涼季（10–3月）",
+      "❄️ 凉爽季（10–3月）",
+      "❄️ Cool season (Oct–Mar)"
+    ],
+    "season.hot": [
+      "☀️ 熱季（4–9月）",
+      "☀️ 炎热季（4–9月）",
+      "☀️ Hot season (Apr–Sep)"
+    ],
+    "season.by": [
+      "— 農夫話最好食 👩‍🌾",
+      "— 农夫推介 👩‍🌾",
+      "— farmer's pick 👩‍🌾"
+    ],
+    "games.eyebrow": [
+      "邊玩邊煮",
+      "边玩边煮",
+      "play with your food"
+    ],
+    "games.title": [
+      "迷你煮食遊戲",
+      "迷你煮食游戏",
+      "Mini Cooking Games"
+    ],
+    "games.lede": [
+      "3D 炒一碟四角豆、落田開工、護送菜心上桌，或者做個有機小測驗——比滑手機更好玩。",
+      "3D 炒一碟四角豆、下田开工、护送菜心上桌，或者做个有机小测验——比刷手机更好玩。",
+      "Fry winged beans in 3D, take a cultivator into the field, rush a choy sum to the table, or take the organic quiz — way more fun than doom-scrolling."
+    ],
+    "games.soon": [
+      "就快有",
+      "即将推出",
+      "Coming soon"
+    ],
+    "games.play": [
+      "開始玩 →",
+      "开始玩 →",
+      "Play →"
+    ],
+    "teaser.why": [
+      "點解唔好隨手買菜就算？",
+      "为何不随便买菜就算？",
+      "Why not just buy any veg?"
+    ],
+    "teaser.why.go": [
+      "睇下有機嘅分別 →",
+      "看看有机的分别 →",
+      "see the difference →"
+    ],
+    "teaser.facts": [
+      "你未必知嘅蔬菜冷知識",
+      "你未必知道的蔬菜冷知识",
+      "Veggie facts you didn't know you needed"
+    ],
+    "teaser.facts.go": [
+      "揭開知識卡 →",
+      "翻开知识卡 →",
+      "flip the cards →"
+    ],
+    "why.eyebrow": [
+      "點解揀有機？",
+      "为何选有机？",
+      "why organic?"
+    ],
+    "why.title": [
+      "菜就係菜？<br><span class='squiggle'>其實分別好大</span>",
+      "菜就是菜？<br><span class='squiggle'>其实差别很大</span>",
+      "Veg is just veg?<br><span class='squiggle'>Not quite.</span>"
+    ],
+    "why.lede": [
+      "街市隨手攞一把菜當然方便。揀本地有機，就係同時照顧自己、照顧農夫，同埋腳下嗰塊泥。",
+      "街市随手拿一把菜当然方便。选本地有机，就是同时照顾自己、照顾农夫，还有脚下那块土。",
+      "Grabbing any bunch at the wet market is easy. Choosing local organic looks after you, the farmers and the soil — all at once."
+    ],
+    "why.cta": [
+      "睇下分別 ↓",
+      "看看分别 ↓",
+      "see the difference ↓"
+    ],
+    "cmp.eyebrow": [
+      "兩個菜籃",
+      "两个菜篮",
+      "a tale of two baskets"
+    ],
+    "cmp.title": [
+      "撥吓開關，睇下分別",
+      "拨一下开关，看看分别",
+      "Flip the switch, spot the difference"
+    ],
+    "cmp.a": [
+      "🛒 隨手買",
+      "🛒 随便买",
+      "🛒 Any old veg"
+    ],
+    "cmp.b": [
+      "🧺 本地有機",
+      "🧺 本地有机",
+      "🧺 Local organic"
+    ],
+    "cmp.foot.a": [
+      "撥去右邊，睇下本地有機菜籃 →",
+      "拨向右边，看看本地有机菜篮 →",
+      "flip it to see the local organic basket →"
+    ],
+    "cmp.foot.b": [
+      "同一筆錢，影響可以差好遠 🌱",
+      "同一份钱，带来完全不同的影响 🌱",
+      "same money, totally different impact 🌱"
+    ],
+    "cmp.disclaimer": [
+      "＊示意比較，按一般情況講；實際睇農場同產地。",
+      "＊示意比较，按一般情况而言；实际情况因农场及产地而异。",
+      "*Illustrative, typical-case comparison — real numbers vary by farm and origin."
+    ],
+    "rs.eyebrow": [
+      "五個好理由",
+      "五个好理由",
+      "five good reasons"
+    ],
+    "rs.title": [
+      "揀有機，唔止係潮流",
+      "选有机，不只是潮流",
+      "Organic isn't just a trend"
+    ],
+    "fm.eyebrow": [
+      "食物里程",
+      "食物里程",
+      "food miles"
+    ],
+    "fm.title": [
+      "你嘅菜行咗幾遠？",
+      "你的菜走了多远？",
+      "How far did your veg travel?"
+    ],
+    "fm.lede": [
+      "揀個產地，睇下棵菜去到中環要行幾遠。越近越新鮮，碳排放都少啲。",
+      "选一个产地，看看一棵菜到中环要走多远。距离越短，越新鲜、碳排放也越少。",
+      "Pick where your veg came from and watch how far it travels to Central. Shorter trips mean fresher food and less carbon."
+    ],
+    "fm.to": [
+      "中環 🏙️",
+      "中环 🏙️",
+      "Central 🏙️"
+    ],
+    "fm.km": [
+      "公里（大約）",
+      "公里（约）",
+      "km (approx.)"
+    ],
+    "fm.times": [
+      "比本地菜遠大約 {n} 倍！",
+      "比本地菜远约 {n} 倍！",
+      "about {n}× further than local!"
+    ],
+    "fm.local": [
+      "短短一程車就到 🥬",
+      "短短一程车就到 🥬",
+      "just a short drive away 🥬"
+    ],
+    "fm.fine": [
+      "距離係直線估嘅，淨係俾你參考。",
+      "距离为直线估算，仅供参考。",
+      "Straight-line estimates, for illustration only."
+    ],
+    "sp.eyebrow": [
+      "小貼士",
+      "小贴士",
+      "shopper's cheat sheet"
+    ],
+    "sp.title": [
+      "點樣認出本地有機菜？",
+      "怎样认出本地有机菜？",
+      "How to spot local organic"
+    ],
+    "sp.1.t": [
+      "睇認證標籤",
+      "看认证标签",
+      "Check the label"
+    ],
+    "sp.1.p": [
+      "留意香港有機資源中心（HKORC）呢類有機認證標誌。",
+      "留意香港有机资源中心（HKORC）等有机认证标志。",
+      "Look for organic certification marks such as the Hong Kong Organic Resource Centre (HKORC)."
+    ],
+    "sp.2.t": [
+      "直接問農夫",
+      "直接问农夫",
+      "Ask the farmer"
+    ],
+    "sp.2.p": [
+      "喺農墟可以問：「喺邊度種？點種？」好農夫一定肯講。",
+      "在农墟可以问：「在哪里种？怎么种？」好农夫一定乐意分享。",
+      "At the market, ask “Where's it grown? How?” Good farmers love to tell you."
+    ],
+    "sp.3.t": [
+      "跟造揀",
+      "跟季节选",
+      "Go seasonal"
+    ],
+    "sp.3.p": [
+      "當造嘅菜最好味、最平，都最可能係本地種。",
+      "当季的菜最好吃、最便宜，也最可能是本地种植。",
+      "In-season veg tastes best, costs less and is most likely grown nearby."
+    ],
+    "sp.4.t": [
+      "醜樣唔緊要",
+      "丑一点没关系",
+      "Embrace the wonky"
+    ],
+    "sp.4.p": [
+      "有小蟲洞、樣衰衰？可能正正係少用化學農藥嘅證明。",
+      "有小虫洞、形状奇怪？可能正是少用化学农药的证明。",
+      "A nibble hole or funny shape? Often a sign of fewer synthetic pesticides."
+    ],
+    "why.end.t": [
+      "準備好去逛農墟未？",
+      "准备好去逛农墟了吗？",
+      "Ready for a market trip?"
+    ],
+    "why.end.btn1": [
+      "🧺 農墟資料",
+      "🧺 农墟资料",
+      "🧺 Market info"
+    ],
+    "why.end.btn2": [
+      "✨ 睇冷知識",
+      "✨ 看冷知识",
+      "✨ Fun facts"
+    ],
+    "ff.eyebrow": [
+      "冷知識時間",
+      "冷知识时间",
+      "fun fact o'clock"
+    ],
+    "ff.title": [
+      "蔬菜比你想像中<br><span class='squiggle'>更加好玩</span>",
+      "蔬菜比你想象中<br><span class='squiggle'>更有趣</span>",
+      "Veggies are way <span class='squiggle'>weirder</span> than you think"
+    ],
+    "ff.lede": [
+      "搖吓菜籃抽個冷知識、揭開知識卡、挑戰「真定假」，最後測下你係邊種蔬菜！",
+      "摇摇菜篮抽一个冷知识、翻开知识卡、挑战「是真是假」，最后测测你是哪一种蔬菜！",
+      "Shake the basket for a random fact, flip the cards, play Myth or Fact — then find out which veggie you are!"
+    ],
+    "ff.shake": [
+      "👆 搖一搖菜籃！",
+      "👆 摇一摇菜篮！",
+      "👆 shake the basket!"
+    ],
+    "ff.shake.start": [
+      "撳吓菜籃，抽個隨機冷知識 ✨",
+      "点击菜篮，抽一个随机冷知识 ✨",
+      "Tap the basket to drop a random fact ✨"
+    ],
+    "ff.cards.eyebrow": [
+      "知識卡",
+      "知识卡",
+      "flip cards"
+    ],
+    "ff.cards.title": [
+      "撳吓揭開，睇下真相",
+      "点击翻开，揭晓真相",
+      "Tap to flip & reveal"
+    ],
+    "ff.tap": [
+      "撳吓反轉",
+      "点击翻转",
+      "tap to flip"
+    ],
+    "ff.flipped": [
+      "揭咗 {n} / {t} 張",
+      "已翻开 {n} / {t} 张",
+      "{n} / {t} cards flipped"
+    ],
+    "ff.flipall": [
+      "一鍵翻開",
+      "一键翻开",
+      "Flip all"
+    ],
+    "ff.reset": [
+      "重設",
+      "重设",
+      "Reset"
+    ],
+    "ff.allflipped": [
+      "🎉 全部翻晒！你係冷知識王！",
+      "🎉 全部翻开！你是冷知识王！",
+      "🎉 All flipped — you're a fun-fact legend!"
+    ],
+    "mf.eyebrow": [
+      "小遊戲",
+      "小游戏",
+      "mini game"
+    ],
+    "mf.title": [
+      "真定假？",
+      "是真是假？",
+      "Myth or Fact?"
+    ],
+    "mf.fact": [
+      "✅ 真",
+      "✅ 真",
+      "✅ Fact"
+    ],
+    "mf.myth": [
+      "❌ 假",
+      "❌ 假",
+      "❌ Myth"
+    ],
+    "mf.right": [
+      "答啱！🎉",
+      "答对了！🎉",
+      "Nailed it! 🎉"
+    ],
+    "mf.wrong": [
+      "差少少！🙈",
+      "差一点点！🙈",
+      "Oops, not quite! 🙈"
+    ],
+    "mf.next": [
+      "下一題 →",
+      "下一题 →",
+      "Next →"
+    ],
+    "mf.done": [
+      "你嘅分數",
+      "你的分数",
+      "Your score"
+    ],
+    "mf.r.hi": [
+      "有機大師！農夫都要拜你做師傅 👑",
+      "有机大师！农夫都要拜你为师 👑",
+      "Organic master — even the farmers want your notes 👑"
+    ],
+    "mf.r.mid": [
+      "好有潛質！再去農墟補吓課 🌿",
+      "很有潜质！再去农墟进修一下 🌿",
+      "Great potential! A market trip will finish the job 🌿"
+    ],
+    "mf.r.lo": [
+      "一棵小苗，慢慢大就得 🌱",
+      "小苗一棵，慢慢长大就好 🌱",
+      "A tiny sprout — you'll grow, we believe in you 🌱"
+    ],
+    "mf.again": [
+      "再玩一次 ↺",
+      "再玩一次 ↺",
+      "Play again ↺"
+    ],
+    "pq.eyebrow": [
+      "性格測驗",
+      "性格测验",
+      "personality quiz"
+    ],
+    "pq.title": [
+      "你係邊種蔬菜？",
+      "你是哪一种蔬菜？",
+      "Which veggie are you?"
+    ],
+    "pq.q": [
+      "第 {n} 題 / {t}",
+      "问题 {n} / {t}",
+      "Question {n} of {t}"
+    ],
+    "pq.you": [
+      "你係……",
+      "你是……",
+      "You are…"
+    ],
+    "pq.tag": [
+      "性格標籤",
+      "性格标签",
+      "Your label"
+    ],
+    "pq.again": [
+      "再測一次 ↺",
+      "再测一次 ↺",
+      "Retake ↺"
+    ],
+    "pq.share": [
+      "📋 抄低結果去分享",
+      "📋 复制结果分享",
+      "📋 Copy & share"
+    ],
+    "pq.copied": [
+      "抄咗！快啲傳俾朋友 💌",
+      "已复制！快去分享给朋友 💌",
+      "Copied! Go share it with your friends 💌"
+    ],
+    "pq.cook": [
+      "👩‍🌾 農夫煮法推介",
+      "👩‍🌾 农夫煮法推介",
+      "👩‍🌾 Farmer's way to cook it"
+    ],
+    "ff.end.why": [
+      "🌱 點解揀有機",
+      "🌱 为何选有机",
+      "🌱 Why organic"
+    ],
+    "ff.end.t": [
+      "識咗喇，去試下真正嘅有機菜！",
+      "知识有了，去试试真正的有机菜！",
+      "Now go taste the real thing!"
+    ],
+    "season.draw": [
+      "🎲 幫我抽今日買乜菜",
+      "🎲 帮我抽今日买什么菜",
+      "🎲 Pick today's veg"
+    ],
+    "market.prep.title": [
+      "行前 2 點小準備",
+      "行前 2 点小准备",
+      "2 things before you go"
+    ],
+    "market.prep.1": [
+      "自備環保袋／食物盒，裝新鮮蔬果更穩陣",
+      "自备环保袋／食物盒，装新鲜蔬果更稳妥",
+      "Bring a tote or food box so the veg stays steady"
+    ],
+    "market.prep.2": [
+      "試下問農夫：「呢棵菜點煮最正？」",
+      "试试问农夫：「这棵菜怎么煮最棒？」",
+      "Ask a farmer: “What’s the best way to cook this?”"
+    ],
+    "market.prep.done": [
+      "準備就緒，星期日海旁見！",
+      "准备就绪，星期日海旁见！",
+      "All set — see you by the harbour on Sunday!"
+    ]
+  },
+  "seasons": {
+    "cool": [
+      {
+        "e": "🥬",
+        "n": [
+          "菜心",
+          "菜心",
+          "Choy sum"
+        ],
+        "t": [
+          "水滾之後落少少油同鹽，菜心灼 1 分鐘就夠，保持綠綠哋、爽脆。上碟淋少少蠔油，簡單最好食。",
+          "水开后加少许油和盐，菜心焯 1 分钟就够，保持翠绿爽脆。上碟淋少许蚝油，简单最好吃。",
+          "Add a drop of oil and pinch of salt to boiling water and blanch for just 1 minute — it stays bright and crunchy. A drizzle of oyster sauce and you're done."
+        ],
+        "tags": [
+          [
+            "⚡ 5 分鐘快手",
+            "⚡ 5 分钟快手",
+            "⚡ 5 minutes"
+          ],
+          [
+            "🔰 新手零失敗",
+            "🔰 新手零失败",
+            "🔰 Hard to mess up"
+          ]
+        ]
+      },
+      {
+        "e": "🌱",
+        "n": [
+          "五爪番薯葉",
+          "五爪番薯叶",
+          "Five-finger sweet potato leaves"
+        ],
+        "t": [
+          "摘嫩葉同嫩莖，蒜蓉或者蝦醬快炒。夏天最耐熱、最易種，係農夫餐檯常客。",
+          "摘嫩叶和嫩茎，蒜蓉或虾酱快炒。夏天最耐热、最易种，是农夫餐桌常客。",
+          "Pick the tender leaves and stems, flash-fry with garlic or shrimp paste. Super heat-tough and easy to grow — a farmer's summer staple."
+        ],
+        "tags": [
+          [
+            "⚡ 5 分鐘快手",
+            "⚡ 5 分钟快手",
+            "⚡ 5 minutes"
+          ],
+          [
+            "🔰 新手零失敗",
+            "🔰 新手零失败",
+            "🔰 Hard to mess up"
+          ]
+        ]
+      },
+      {
+        "e": "🥦",
+        "n": [
+          "西蘭花",
+          "西兰花",
+          "Broccoli"
+        ],
+        "t": [
+          "蒸 3–4 分鐘就要起鑊，太耐會變黃變腍。菜莖唔好掉！削皮切片，比花仲甜。",
+          "蒸 3–4 分钟就要出锅，太久会变黄变软。菜茎别丢！削皮切片，比花更甜。",
+          "Steam for 3–4 minutes max or it goes dull and mushy. Don't bin the stem — peel and slice it, it's even sweeter than the florets."
+        ],
+        "tags": [
+          [
+            "⚡ 5 分鐘快手",
+            "⚡ 5 分钟快手",
+            "⚡ 5 minutes"
+          ],
+          [
+            "🍲 時令推介",
+            "🍲 时令推介",
+            "🍲 In season"
+          ]
+        ]
+      },
+      {
+        "e": "🌿",
+        "n": [
+          "芥蘭",
+          "芥兰",
+          "Gai lan"
+        ],
+        "t": [
+          "粗莖先削走外皮，用薑汁同少少紹興酒猛火快炒，可以去走少少苦味，帶出甜味。",
+          "粗茎先削掉外皮，用姜汁和少许绍兴酒大火快炒，可以去掉微苦味，带出甜味。",
+          "Peel thick stems, then stir-fry hot and fast with ginger and a splash of Shaoxing wine — it kills the bitterness and brings out the sweetness."
+        ],
+        "tags": [
+          [
+            "🍲 時令推介",
+            "🍲 时令推介",
+            "🍲 In season"
+          ]
+        ]
+      },
+      {
+        "e": "🥕",
+        "n": [
+          "白蘿蔔",
+          "白萝卜",
+          "Daikon"
+        ],
+        "t": [
+          "冬天嘅蘿蔔最清甜。切大件慢火炆，或者刨絲做蘿蔔糕，連皮洗乾淨更有營養。",
+          "冬天的萝卜最清甜。切大块慢火炖，或者刨丝做萝卜糕，连皮洗净更有营养。",
+          "Winter daikon is at its sweetest. Braise big chunks low and slow, or grate it for turnip cake — scrub the skin and leave it on."
+        ],
+        "tags": [
+          [
+            "🍲 時令推介",
+            "🍲 时令推介",
+            "🍲 In season"
+          ],
+          [
+            "🔰 新手零失敗",
+            "🔰 新手零失败",
+            "🔰 Hard to mess up"
+          ]
+        ]
+      },
+      {
+        "e": "🍅",
+        "n": [
+          "番茄",
+          "番茄",
+          "Tomato"
+        ],
+        "t": [
+          "番茄千祈唔好放雪櫃！放室溫先保留到香味。半熟嘅放幾日會自己變紅，炒蛋最正。",
+          "番茄千万不要放冰箱！放室温才会保留香味。半熟的放几天会自然变红，炒蛋最棒。",
+          "Never put tomatoes in the fridge — room temperature keeps the flavour. Slightly unripe ones will redden on the counter. Perfect for tomato & egg."
+        ],
+        "tags": [
+          [
+            "🔰 新手零失敗",
+            "🔰 新手零失败",
+            "🔰 Hard to mess up"
+          ]
+        ]
+      },
+      {
+        "e": "🍓",
+        "n": [
+          "士多啤梨",
+          "草莓",
+          "Strawberry"
+        ],
+        "t": [
+          "本地士多啤梨冬天才當造！食之前先洗，洗完就食，如果唔係會變軟出水。",
+          "本地草莓冬天才当季！吃之前才洗，洗完就吃，否则会变软出水。",
+          "Local strawberries only show up in winter! Wash them right before eating, not before storing, or they'll go soft and soggy."
+        ],
+        "tags": [
+          [
+            "🍲 時令推介",
+            "🍲 时令推介",
+            "🍲 In season"
+          ]
+        ]
+      },
+      {
+        "e": "🍅",
+        "n": [
+          "車厘茄",
+          "车厘茄",
+          "Cherry tomato"
+        ],
+        "t": [
+          "食之前先洗。對半落沙律，或者整粒焙 8 分鐘，甜味會更出。唔好放雪櫃。",
+          "吃之前才洗。对半放沙律，或者整颗烤 8 分钟，甜味会更出。不要放冰箱。",
+          "Wash just before eating. Halve them for a salad, or roast whole for 8 minutes. Keep them out of the fridge."
+        ],
+        "tags": [
+          [
+            "⚡ 5 分鐘快手",
+            "⚡ 5 分钟快手",
+            "⚡ 5 minutes"
+          ],
+          [
+            "🔰 新手零失敗",
+            "🔰 新手零失败",
+            "🔰 Hard to mess up"
+          ]
+        ]
+      }
+    ],
+    "hot": [
+      {
+        "e": "🥬",
+        "n": [
+          "通菜",
+          "空心菜",
+          "Water spinach"
+        ],
+        "t": [
+          "猛火、快手！蒜蓉加一小磚腐乳一齊炒，30 秒上碟，保持爽脆。",
+          "大火、快手！蒜蓉加一小块腐乳一起炒，30 秒出锅，保持爽脆。",
+          "High heat, fast hands! Stir-fry with garlic and a cube of fermented bean curd — 30 seconds and out, still crunchy."
+        ],
+        "tags": [
+          [
+            "⚡ 5 分鐘快手",
+            "⚡ 5 分钟快手",
+            "⚡ 5 minutes"
+          ],
+          [
+            "🔰 新手零失敗",
+            "🔰 新手零失败",
+            "🔰 Hard to mess up"
+          ]
+        ]
+      },
+      {
+        "e": "🍃",
+        "n": [
+          "莧菜",
+          "苋菜",
+          "Amaranth"
+        ],
+        "t": [
+          "經典做法：上湯莧菜。加蒜頭、皮蛋同鹹蛋粒一齊浸熟，湯都會變到靚靚粉紅色！",
+          "经典做法：上汤苋菜。加蒜头、皮蛋和咸蛋粒一起煮熟，汤会变成漂亮的粉红色！",
+          "Classic move: amaranth in broth with garlic, century egg and salted egg. Bonus — the soup turns a pretty pink!"
+        ],
+        "tags": [
+          [
+            "🍲 時令推介",
+            "🍲 时令推介",
+            "🍲 In season"
+          ]
+        ]
+      },
+      {
+        "e": "🥒",
+        "n": [
+          "絲瓜",
+          "丝瓜",
+          "Luffa"
+        ],
+        "t": [
+          "刨走硬棱，留少少綠皮更香。配蛋炒或者滾湯，絲瓜自己會出水，唔使加太多水。",
+          "刨掉硬棱，保留一点绿皮更香。配蛋炒或煮汤，丝瓜本身会出水，不用加太多水。",
+          "Shave off the hard ridges but keep a little green skin for aroma. Scramble with egg or simmer in soup — it releases its own water."
+        ],
+        "tags": [
+          [
+            "🔰 新手零失敗",
+            "🔰 新手零失败",
+            "🔰 Hard to mess up"
+          ],
+          [
+            "⚡ 5 分鐘快手",
+            "⚡ 5 分钟快手",
+            "⚡ 5 minutes"
+          ]
+        ]
+      },
+      {
+        "e": "🫑",
+        "n": [
+          "苦瓜",
+          "苦瓜",
+          "Bitter melon"
+        ],
+        "t": [
+          "刮走白色瓜囊，再用鹽醃 10 分鐘或者汆水，苦味少好多。配豆豉炒蛋，連怕苦嘅人都鍾意。",
+          "刮掉白色瓜瓤，再用盐腌 10 分钟或者焯水，苦味大减。配豆豉炒蛋，连怕苦的人都爱。",
+          "Scrape out the white pith, then salt for 10 minutes or blanch — goodbye harsh bitterness. Fry with black beans and egg; even bitter-haters convert."
+        ],
+        "tags": [
+          [
+            "🍲 時令推介",
+            "🍲 时令推介",
+            "🍲 In season"
+          ]
+        ]
+      },
+      {
+        "e": "🍆",
+        "n": [
+          "茄子",
+          "茄子",
+          "Eggplant"
+        ],
+        "t": [
+          "切條之後灑鹽放 10 分鐘，抹乾再煎，就唔會索晒油。魚香茄子一流！",
+          "切条后撒盐放 10 分钟，擦干再煎，就不会吸满油。鱼香茄子一流！",
+          "Salt the strips for 10 minutes, pat dry, then pan-fry — it won't soak up all the oil. Made for fish-fragrant eggplant!"
+        ],
+        "tags": [
+          [
+            "🍲 時令推介",
+            "🍲 时令推介",
+            "🍲 In season"
+          ]
+        ]
+      },
+      {
+        "e": "🌱",
+        "n": [
+          "五爪番薯葉",
+          "五爪番薯叶",
+          "Five-finger sweet potato leaves"
+        ],
+        "t": [
+          "摘嫩葉同嫩莖，蒜蓉或者蝦醬快炒。夏天最耐熱、最易種，係農夫餐檯常客。",
+          "摘嫩叶和嫩茎，蒜蓉或虾酱快炒。夏天最耐热、最易种，是农夫餐桌常客。",
+          "Pick the tender leaves and stems, flash-fry with garlic or shrimp paste. Super heat-tough and easy to grow — a farmer's summer staple."
+        ],
+        "tags": [
+          [
+            "⚡ 5 分鐘快手",
+            "⚡ 5 分钟快手",
+            "⚡ 5 minutes"
+          ],
+          [
+            "🔰 新手零失敗",
+            "🔰 新手零失败",
+            "🔰 Hard to mess up"
+          ]
+        ]
+      },
+      {
+        "e": "🫛",
+        "n": [
+          "四角豆",
+          "四角豆",
+          "Winged bean"
+        ],
+        "t": [
+          "摘走兩邊筋，蒜蓉快炒大約兩分鐘，保持脆身。唔好炒太耐。",
+          "撕掉两边筋，蒜蓉快炒大约两分钟，保持脆身。不要炒太久。",
+          "Strip the strings, then garlic stir-fry for about two minutes so it stays crunchy."
+        ],
+        "tags": [
+          [
+            "⚡ 5 分鐘快手",
+            "⚡ 5 分钟快手",
+            "⚡ 5 minutes"
+          ],
+          [
+            "🍲 時令推介",
+            "🍲 时令推介",
+            "🍲 In season"
+          ]
+        ]
+      }
+    ]
+  },
+  "compare": [
+    {
+      "n": [
+        "🚚 食物里程",
+        "🚚 食物里程",
+        "🚚 Food miles"
+      ],
+      "a": 20,
+      "b": 92,
+      "na": [
+        "可能飛過幾千公里",
+        "可能飞越几千公里",
+        "may fly thousands of km"
+      ],
+      "nb": [
+        "由新界農場直送",
+        "由新界农场直送",
+        "straight from NT farms"
+      ]
+    },
+    {
+      "n": [
+        "🧪 化學農藥",
+        "🧪 化学农药",
+        "🧪 Synthetic pesticides"
+      ],
+      "a": 30,
+      "b": 95,
+      "na": [
+        "一般都准用",
+        "一般允许使用",
+        "usually allowed"
+      ],
+      "nb": [
+        "有機標準唔准",
+        "有机标准禁止",
+        "banned by organic standards"
+      ]
+    },
+    {
+      "n": [
+        "⏱️ 有幾新鮮",
+        "⏱️ 新鲜程度",
+        "⏱️ Freshness"
+      ],
+      "a": 40,
+      "b": 90,
+      "na": [
+        "收成之後運嚟運去，擺好多日",
+        "收成后运输、存放多日",
+        "days of shipping & storage"
+      ],
+      "nb": [
+        "好多時前一日先摘",
+        "常常前一天才采摘",
+        "often picked the day before"
+      ]
+    },
+    {
+      "n": [
+        "🪱 泥健唔健康",
+        "🪱 泥土健康",
+        "🪱 Soil life"
+      ],
+      "a": 35,
+      "b": 92,
+      "na": [
+        "多數靠化學肥料",
+        "多靠化学肥料",
+        "relies on chemical fertiliser"
+      ],
+      "nb": [
+        "用堆肥、輪種養泥",
+        "堆肥、轮作养泥土",
+        "compost & rotation feed it"
+      ]
+    },
+    {
+      "n": [
+        "🧑‍🌾 農夫分到幾多",
+        "🧑‍🌾 农夫收入",
+        "🧑‍🌾 Farmer's share"
+      ],
+      "a": 25,
+      "b": 88,
+      "na": [
+        "經好多層中間人",
+        "经过多层中间商",
+        "split between middlemen"
+      ],
+      "nb": [
+        "直接交到農夫手上",
+        "直接交到农夫手上",
+        "goes straight to the farmer"
+      ]
+    }
+  ],
+  "reasons": [
+    {
+      "e": "🧪",
+      "t": [
+        "化學殘留少啲，食得安心啲",
+        "更少化学残留，吃得更安心",
+        "Fewer chemical residues"
+      ],
+      "p": [
+        "有機耕作唔用合成化學農藥同化學肥料，菜更接近天然。後生就養成健康飲食習慣，係送俾未來自己最好嘅禮物。",
+        "有机耕作不使用合成化学农药和化学肥料，蔬菜更接近天然状态。从年轻时就建立健康饮食习惯，是给未来自己最好的礼物。",
+        "Organic farming skips synthetic pesticides and chemical fertilisers, so your veg is closer to its natural state. Building healthy food habits young is a gift to future-you."
+      ]
+    },
+    {
+      "e": "🐝",
+      "t": [
+        "保護泥同生物多樣性",
+        "保护泥土和生物多样性",
+        "Protects soil & biodiversity"
+      ],
+      "p": [
+        "有機農夫用堆肥、輪種同天然方法照顧泥。健康嘅泥儲多啲碳、留得住水，亦俾蜜蜂、蝴蝶、瓢蟲有屋企返。",
+        "有机农夫用堆肥、轮作和天然方法照顾泥土。健康的泥土储存更多碳、留住水分，也让蜜蜂、蝴蝶、瓢虫有家可归。",
+        "Organic farmers care for soil with compost, crop rotation and natural methods. Healthy soil stores more carbon, holds water and gives bees, butterflies and ladybirds a home."
+      ]
+    },
+    {
+      "e": "🌏",
+      "t": [
+        "少啲碳足跡，支持本地",
+        "减少碳足迹，支持本地",
+        "Lower footprint, support local"
+      ],
+      "p": [
+        "本地菜由農場去到中環農墟，只係短短一程車。你俾嘅每一分錢，直接支持香港農夫，而唔係長途運輸同中間人。",
+        "本地菜由农场到中环农墟只是短短一程车。你付的每一分钱，直接支持香港农夫，而不是长途运输和中间商。",
+        "Local veg travels just a short drive from farm to the market. Every dollar you spend backs a Hong Kong farmer instead of long-haul shipping and middlemen."
+      ]
+    },
+    {
+      "e": "😋",
+      "t": [
+        "味道更濃，真正有「菜味」",
+        "味道更浓，真正有「菜味」",
+        "More flavour, real veggie taste"
+      ],
+      "p": [
+        "好多人覺得有機菜更甜、更香、更有層次。佢哋跟住自然節奏大，再配農夫推介嘅煮法，鮮味先至出晒。",
+        "很多人发现有机菜更甜、更香、更有层次。它们按自然节奏生长，再配上农夫推介的煮法，鲜味完全发挥。",
+        "Lots of people find organic veg sweeter and more aromatic. Grown at nature's pace and cooked the farmer's way, the flavour really shines."
+      ]
+    },
+    {
+      "e": "🤝",
+      "t": [
+        "連住人同土地",
+        "连接人与土地",
+        "Connects people with the land"
+      ],
+      "p": [
+        "喺中環農墟，你可以同種菜嗰個人傾偈，知食物由邊度嚟。呢個唔係冷冰冰嘅交易，而係人同人、人同土地嘅連結——正正就係「惜聚田耕」嘅精神。",
+        "在中环农墟，你可以跟种菜的人聊天，知道食物从哪里来。这不是冷冰冰的交易，而是人与人、人与土地的连接——正是「惜聚田耕」的精神。",
+        "At the market you can chat with the person who grew your food and know exactly where it came from. It's not a cold transaction — it's a connection between people and the land. That's the SikGather spirit."
+      ]
+    }
+  ],
+  "origins": [
+    {
+      "e": "🚜",
+      "km": 35,
+      "n": [
+        "新界農場",
+        "新界农场",
+        "NT farm"
+      ]
+    },
+    {
+      "e": "🚛",
+      "km": 150,
+      "n": [
+        "廣東",
+        "广东",
+        "Guangdong"
+      ]
+    },
+    {
+      "e": "🚢",
+      "km": 1700,
+      "n": [
+        "泰國",
+        "泰国",
+        "Thailand"
+      ]
+    },
+    {
+      "e": "✈️",
+      "km": 7400,
+      "n": [
+        "澳洲",
+        "澳洲",
+        "Australia"
+      ]
+    },
+    {
+      "e": "✈️",
+      "km": 9300,
+      "n": [
+        "荷蘭",
+        "荷兰",
+        "Netherlands"
+      ]
+    },
+    {
+      "e": "✈️",
+      "km": 11600,
+      "n": [
+        "美國加州",
+        "美国加州",
+        "California"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "e": "🥕",
+      "c": "butter",
+      "t": [
+        "紅蘿蔔本來唔係橙色",
+        "胡萝卜本来不是橙色",
+        "Carrots weren't always orange"
+      ],
+      "q": [
+        "咦？咁原本係咩色？",
+        "咦？那原本是什么色？",
+        "wait, what colour were they?"
+      ],
+      "p": [
+        "最早嘅紅蘿蔔多數係紫色同黃色！橙色紅蘿蔔到 17 世紀荷蘭先流行。有機農夫成日種嘅傳統品種，而家都仲有紫、黃、白色。",
+        "最早的胡萝卜多是紫色和黄色！橙色胡萝卜在 17 世纪的荷兰才流行起来。有机农夫常种的传统品种，仍有紫、黄、白色。",
+        "The earliest carrots were mostly purple and yellow! Orange ones only took off in the Netherlands in the 1600s. Heritage varieties grown by organic farmers still come in purple, yellow and white."
+      ]
+    },
+    {
+      "e": "🥦",
+      "c": "sage",
+      "t": [
+        "你其實食緊花",
+        "你其实在吃花",
+        "You're eating flowers"
+      ],
+      "q": [
+        "西蘭花嘅秘密身份…",
+        "西兰花的秘密身份…",
+        "broccoli's secret identity…"
+      ],
+      "p": [
+        "西蘭花一粒粒嘅「頭」，其實係未開嘅花蕾！如果擺住唔食，佢會開出小黃花。",
+        "西兰花一粒粒的「头」，其实是还未开的花蕾！如果放着不吃，它会开出小黄花。",
+        "Those little broccoli bumps are unopened flower buds! Leave it long enough and it bursts into tiny yellow flowers."
+      ]
+    },
+    {
+      "e": "👨‍👩‍👧",
+      "c": "rose",
+      "t": [
+        "西蘭花、椰菜、羽衣甘藍係一家人",
+        "西兰花、卷心菜、羽衣甘蓝是一家人",
+        "Broccoli, cabbage & kale are family"
+      ],
+      "q": [
+        "而且係同一個物種！",
+        "而且是同一个物种！",
+        "literally the same species!"
+      ],
+      "p": [
+        "佢哋全部都係「甘藍」(Brassica oleracea)，人類揀咗幾千年先變成唔同造型，椰菜花同芥蘭都係！",
+        "它们全部都是「甘蓝」(Brassica oleracea) 经过人类几千年挑选出来的不同造型，花椰菜和芥兰也是！",
+        "They're all Brassica oleracea, shaped into different looks by thousands of years of farmer selection. Cauliflower and gai lan too!"
+      ]
+    },
+    {
+      "e": "🪱",
+      "c": "butter",
+      "t": [
+        "一茶匙泥入面嘅生命",
+        "一茶匙泥土里的生命",
+        "A teaspoon of living soil"
+      ],
+      "q": [
+        "比成個地球嘅人仲多？",
+        "比地球人口还要多？",
+        "more than all humans on Earth?"
+      ],
+      "p": [
+        "一茶匙健康泥入面嘅微生物，數量可以多過全世界嘅人！有機耕作用堆肥餵佢哋，佢哋再幫植物吸收養分。",
+        "一茶匙健康泥土里的微生物，数量可以多过全世界的人口！有机耕作用堆肥喂养它们，它们再帮植物吸收养分。",
+        "One teaspoon of healthy soil can hold more microbes than there are people on the planet! Organic farms feed them with compost, and they help plants absorb nutrients."
+      ]
+    },
+    {
+      "e": "🐞",
+      "c": "rose",
+      "t": [
+        "瓢蟲係農夫嘅保鑣",
+        "瓢虫是农夫的保镖",
+        "Ladybirds are farm bodyguards"
+      ],
+      "q": [
+        "一生食得晒幾多蚜蟲？",
+        "一生可以吃掉多少蚜虫？",
+        "how many aphids can one eat?"
+      ],
+      "p": [
+        "一隻瓢蟲一生食得晒成千過萬隻蚜蟲！有機農場唔噴化學殺蟲劑，就靠呢啲細細粒保鑣自然防蟲。",
+        "一只瓢虫一生可以吃掉数以千计的蚜虫！有机农场不喷化学杀虫剂，就靠这些小小保镖自然防虫。",
+        "A single ladybird can munch through thousands of aphids in its lifetime! Without synthetic sprays, organic farms rely on these tiny bodyguards for natural pest control."
+      ]
+    },
+    {
+      "e": "🍅",
+      "c": "sage",
+      "t": [
+        "番茄上過法庭",
+        "番茄上过法庭",
+        "Tomatoes went to court"
+      ],
+      "q": [
+        "佢到底係生果定係蔬菜？",
+        "它到底是水果还是蔬菜？",
+        "fruit or vegetable?!"
+      ],
+      "p": [
+        "植物學上番茄係生果，但 1893 年美國最高法院為咗收稅，判佢係「蔬菜」。所以答案係：兩樣都係！",
+        "植物学上番茄是水果，但 1893 年美国最高法院为了征税，判定它是「蔬菜」。所以答案是：两样都是！",
+        "Botanically it's a fruit — but in 1893 the US Supreme Court ruled it a 'vegetable' for tax purposes. So the answer is… both!"
+      ]
+    },
+    {
+      "e": "🫑",
+      "c": "butter",
+      "t": [
+        "紅椒打贏橙",
+        "红椒打赢橙子",
+        "Red pepper beats oranges"
+      ],
+      "q": [
+        "維他命 C 大比拼！",
+        "维生素 C 大比拼！",
+        "the vitamin C showdown!"
+      ],
+      "p": [
+        "同一重量計，紅燈籠椒嘅維他命 C 大約係橙嘅兩倍以上！生食或者快炒最留得到。",
+        "以同等重量计，红甜椒的维生素 C 大约是橙子的两倍以上！生吃或快炒最能保留。",
+        "Gram for gram, red bell peppers pack around twice the vitamin C of oranges! Eat raw or flash-fry to keep the most."
+      ]
+    },
+    {
+      "e": "🥒",
+      "c": "sky",
+      "t": [
+        "青瓜就係一杯水",
+        "黄瓜是一杯水",
+        "Cucumbers are basically water"
+      ],
+      "q": [
+        "有幾多 % 係水？",
+        "有多少 % 是水？",
+        "what % is water?"
+      ],
+      "p": [
+        "青瓜大約 95% 都係水！香港夏天又熱又焗，食青瓜就好似飲一杯凍水。",
+        "黄瓜大约 95% 都是水！香港夏天又热又闷，吃黄瓜就像吃一杯清凉的水。",
+        "Cucumbers are about 95% water! In a sticky Hong Kong summer, it's like eating a glass of cool water."
+      ]
+    },
+    {
+      "e": "🌼",
+      "c": "sage",
+      "t": [
+        "生菜係雛菊嘅親戚",
+        "生菜是雏菊的亲戚",
+        "Lettuce is related to daisies"
+      ],
+      "q": [
+        "沙律入面嘅小花園",
+        "沙拉里的小花园",
+        "a garden in your salad"
+      ],
+      "p": [
+        "生菜屬於菊科，同雛菊、向日葵係遠房親戚。等生菜「抽苔」，佢仲會開出小小朵花！",
+        "生菜属于菊科，跟雏菊、向日葵是远房亲戚。让生菜「抽薹」，它还会开出小小的花！",
+        "Lettuce belongs to the daisy family, distant cousins with sunflowers. Let it 'bolt' and it'll even grow little flowers!"
+      ]
+    },
+    {
+      "e": "🍓",
+      "c": "rose",
+      "t": [
+        "士多啤梨將籽穿喺出面",
+        "草莓把种子穿在外面",
+        "Strawberries wear seeds outside"
+      ],
+      "q": [
+        "一粒有幾多粒「籽」？",
+        "一颗有多少粒「籽」？",
+        "how many 'seeds' per berry?"
+      ],
+      "p": [
+        "一粒士多啤梨表面平均大約有 200 粒小「籽」，每一粒其實都係一個小果實！香港本地士多啤梨冬天才有得食。",
+        "一颗草莓表面平均约有 200 粒小「籽」，每一粒其实都是一个小果实！香港本地草莓冬天才有得吃。",
+        "One strawberry has around 200 little 'seeds' on the outside — and each is technically its own tiny fruit! Local HK strawberries are a winter treat."
+      ]
+    },
+    {
+      "e": "🌿",
+      "c": "butter",
+      "t": [
+        "植物都有好朋友",
+        "植物也有好朋友",
+        "Plants have best friends"
+      ],
+      "q": [
+        "「伴生種植」係咩？",
+        "「伴生种植」是什么？",
+        "what's companion planting?"
+      ],
+      "p": [
+        "有機農夫會將某啲植物種埋一齊互相幫手，例如番茄隔離種羅勒，香味可以幫手趕走部分害蟲——天然又聰明！",
+        "有机农夫会把某些植物种在一起互相帮忙，例如番茄旁种罗勒，香味可以帮忙赶走部分害虫——天然又聪明！",
+        "Organic farmers plant buddies side by side to help each other — like basil next to tomatoes, whose scent helps keep some pests away. Natural and clever!"
+      ]
+    },
+    {
+      "e": "🪱",
+      "c": "sky",
+      "t": [
+        "蚯蚓用皮膚呼吸",
+        "蚯蚓用皮肤呼吸",
+        "Earthworms breathe through skin"
+      ],
+      "q": [
+        "農場最勤力嘅員工",
+        "农场最勤劳的员工",
+        "the farm's hardest workers"
+      ],
+      "p": [
+        "蚯蚓冇肺，靠濕濕哋嘅皮膚呼吸。佢哋成日鑽嚟鑽去，幫泥鬆土、施肥，達爾文仲研究咗佢哋幾十年！",
+        "蚯蚓没有肺，靠湿润的皮肤呼吸。它们整天钻来钻去，帮泥土松土、施肥，达尔文更研究了它们几十年！",
+        "Earthworms have no lungs — they breathe through their moist skin. They tunnel all day, loosening and fertilising soil. Darwin studied them for decades!"
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "a": false,
+      "s": [
+        "有機 = 完全唔用任何農藥。",
+        "有机 = 完全不用任何农药。",
+        "Organic means zero pesticides of any kind."
+      ],
+      "x": [
+        "有機農場唔准用合成化學農藥，但可以有限度用經認可嘅天然防治方法。",
+        "有机农场禁止合成化学农药，但可以有限度使用经认可的天然防治方法。",
+        "Organic bans synthetic chemical pesticides, but some approved natural methods can be used in a limited way."
+      ]
+    },
+    {
+      "a": true,
+      "s": [
+        "西蘭花、椰菜同羽衣甘藍係同一個物種。",
+        "西兰花、卷心菜和羽衣甘蓝是同一个物种。",
+        "Broccoli, cabbage and kale are the same species."
+      ],
+      "x": [
+        "全部都係 Brassica oleracea，只係被揀到變成唔同樣！",
+        "全部都是 Brassica oleracea，只是被选育成不同样子！",
+        "All Brassica oleracea — just bred into different shapes!"
+      ]
+    },
+    {
+      "a": false,
+      "s": [
+        "樣衰嘅菜一定比較難食。",
+        "样子丑的菜一定比较难吃。",
+        "Ugly-looking veg tastes worse."
+      ],
+      "x": [
+        "樣同味道無關！醜醜哋嘅菜一樣好味，買佢哋仲可以少啲浪費。",
+        "外表和味道无关！丑丑的菜一样好吃，买它们还可以减少浪费。",
+        "Looks have nothing to do with taste! Wonky veg is just as delicious — and buying it cuts food waste."
+      ]
+    },
+    {
+      "a": true,
+      "s": [
+        "番茄喺植物學上其實係生果。",
+        "番茄在植物学上其实是水果。",
+        "Botanically, a tomato is a fruit."
+      ],
+      "x": [
+        "佢由花發育出嚟、入面有籽，所以係生果——雖然我哋攞佢嚟炒蛋。",
+        "它由花朵发育而成、内有种子，所以是水果——虽然我们拿它来炒蛋。",
+        "It grows from a flower and holds seeds, so it's a fruit — even if we stir-fry it with eggs."
+      ]
+    },
+    {
+      "a": false,
+      "s": [
+        "只要洗得夠乾淨，就可以洗走晒所有農藥殘留。",
+        "只要洗得够干净，就可以洗掉所有农药残留。",
+        "A good wash removes all pesticide residue."
+      ],
+      "x": [
+        "洗一洗可以少啲表面殘留，但未必洗得走晒，所以源頭揀邊度都好緊要。",
+        "清洗可以减少表面残留，但未必能全部去除，所以源头选择也很重要。",
+        "Washing reduces surface residue but can't always remove it all — so where your veg comes from matters too."
+      ]
+    },
+    {
+      "a": true,
+      "s": [
+        "菜葉上面有小蟲洞，可能代表少用化學農藥。",
+        "菜叶上有小虫洞，可能代表少用化学农药。",
+        "Little holes in leaves can be a sign of fewer chemical pesticides."
+      ],
+      "x": [
+        "小蟲都識揀好菜！少少蟲咬唔影響食，切走就得。",
+        "小虫也懂得挑好菜！少许虫咬不影响食用，切掉就可以。",
+        "Even bugs know a good leaf! A nibble or two is harmless — just trim it off."
+      ]
+    },
+    {
+      "a": true,
+      "s": [
+        "本地菜通常新鮮啲，因為運得耐少啲。",
+        "本地菜通常更新鲜，因为运输时间更短。",
+        "Local veg is usually fresher because it travels less."
+      ],
+      "x": [
+        "由新界去中環只係一程車，好多菜農墟前一日先摘。",
+        "由新界到中环只是一程车，很多菜在农墟前一天才采摘。",
+        "NT to Central is a short drive — lots of market veg is picked the day before."
+      ]
+    },
+    {
+      "a": false,
+      "s": [
+        "紅蘿蔔天生就係橙色。",
+        "胡萝卜天生就是橙色的。",
+        "Carrots are naturally orange."
+      ],
+      "x": [
+        "最早嘅紅蘿蔔係紫色同黃色，橙色係之後先培育出嚟！",
+        "最早的胡萝卜是紫色和黄色，橙色是后来培育出来的！",
+        "The first carrots were purple and yellow — orange was bred later!"
+      ]
+    }
+  ],
+  "personality": {
+    "questions": [
+      {
+        "q": [
+          "星期日朝早，你最想…",
+          "星期日早上，你最想…",
+          "Sunday morning, you'd rather…"
+        ],
+        "o": [
+          {
+            "e": "🛌",
+            "k": "tomato",
+            "t": [
+              "賴床賴到中午，慢慢嘆",
+              "赖床到中午，慢慢享受",
+              "sleep in till noon, no rush"
+            ]
+          },
+          {
+            "e": "🥾",
+            "k": "kale",
+            "t": [
+              "一早去行山",
+              "一早去爬山",
+              "hike at sunrise"
+            ]
+          },
+          {
+            "e": "🧺",
+            "k": "choysum",
+            "t": [
+              "約朋友去逛農墟",
+              "约朋友逛农墟",
+              "hit the market with friends"
+            ]
+          },
+          {
+            "e": "🎨",
+            "k": "carrot",
+            "t": [
+              "喺屋企畫畫、做手作",
+              "在家画画、做手工",
+              "paint or craft at home"
+            ]
+          }
+        ]
+      },
+      {
+        "q": [
+          "朋友形容你係…",
+          "朋友形容你是…",
+          "Your friends describe you as…"
+        ],
+        "o": [
+          {
+            "e": "☀️",
+            "k": "tomato",
+            "t": [
+              "溫暖又甜",
+              "温暖又甜",
+              "warm & sweet"
+            ]
+          },
+          {
+            "e": "💪",
+            "k": "kale",
+            "t": [
+              "堅強又健康",
+              "坚强又健康",
+              "tough & healthy"
+            ]
+          },
+          {
+            "e": "🤗",
+            "k": "choysum",
+            "t": [
+              "可靠又好相處",
+              "可靠又好相处",
+              "reliable & easygoing"
+            ]
+          },
+          {
+            "e": "🌈",
+            "k": "carrot",
+            "t": [
+              "有創意又同人唔同",
+              "有创意又与众不同",
+              "creative & one-of-a-kind"
+            ]
+          }
+        ]
+      },
+      {
+        "q": [
+          "你最鍾意嘅煮法係…",
+          "你最爱的煮法是…",
+          "Your go-to way to cook is…"
+        ],
+        "o": [
+          {
+            "e": "🍲",
+            "k": "tomato",
+            "t": [
+              "慢火燉一煲湯",
+              "慢火炖一锅汤",
+              "a slow-simmered soup"
+            ]
+          },
+          {
+            "e": "🥗",
+            "k": "kale",
+            "t": [
+              "生食沙律",
+              "生吃沙拉",
+              "a raw, crunchy salad"
+            ]
+          },
+          {
+            "e": "🔥",
+            "k": "choysum",
+            "t": [
+              "猛火快炒",
+              "大火快炒",
+              "a fast, fiery stir-fry"
+            ]
+          },
+          {
+            "e": "🧁",
+            "k": "carrot",
+            "t": [
+              "焗個蛋糕試新嘢",
+              "烤个蛋糕试新东西",
+              "bake something new"
+            ]
+          }
+        ]
+      }
+    ],
+    "results": {
+      "tomato": {
+        "e": "🍅",
+        "n": [
+          "暖笑番茄",
+          "暖笑番茄",
+          "Sunny Tomato"
+        ],
+        "d": [
+          "你似番茄咁溫暖甜美，令身邊嘅人好舒服。你需要陽光同放鬆時間——記住唔好將自己「放雪櫃」！",
+          "你像番茄一样温暖甜美，让身边的人很舒服。你需要阳光和放松时间——记住不要把自己「放冰箱」！",
+          "Warm, sweet and comforting — people feel at home around you. You need sunshine and slow days. Just don't put yourself in the fridge!"
+        ],
+        "cook": [
+          "番茄千祈唔好放雪櫃。蛋打散，番茄切件快炒，落少少糖，就係最正嘅番茄炒蛋。",
+          "番茄千万不要放冰箱。蛋打散，番茄切块快炒，放少许糖，就是最棒的番茄炒蛋。",
+          "Keep them out of the fridge. Scramble eggs, chop the tomatoes, and stir-fry with a pinch of sugar."
+        ]
+      },
+      "kale": {
+        "e": "🥬",
+        "n": [
+          "硬朗羽衣甘藍",
+          "硬朗羽衣甘蓝",
+          "Kale Champion"
+        ],
+        "d": [
+          "你充滿能量、意志好堅定，越凍越甜（就好似冬天嘅羽衣甘藍）。朋友有難，你一定第一個出現！",
+          "你充满能量、意志坚定，越冷越甜（就像冬天的羽衣甘蓝）。朋友有难，你一定第一个出现！",
+          "Energetic and determined — you get sweeter when it's cold (just like winter kale). When friends need help, you're first to show up!"
+        ],
+        "cook": [
+          "摘走硬莖，蒜蓉少油快炒一分鐘，或者撕碎落沙律。越凍越甜。",
+          "摘掉硬茎，蒜蓉少油快炒一分钟，或者撕碎放沙律。越冷越甜。",
+          "Strip the tough stem. A one-minute garlic stir-fry, or tear it into a salad. Colder days make it sweeter."
+        ]
+      },
+      "choysum": {
+        "e": "🥬",
+        "n": [
+          "人氣菜心",
+          "人气菜心",
+          "Classic Choy Sum"
+        ],
+        "d": [
+          "你係大家嘅「家常好味」：簡單、可靠、同邊個都夾。冇你，餐檯就唔完整！",
+          "你是大家的「家常好味」：简单、可靠、跟谁都合得来。没有你，餐桌就不完整！",
+          "You're everyone's comfort food — simple, reliable and you get along with anyone. No table is complete without you!"
+        ],
+        "cook": [
+          "水滾之後落少少油同鹽，灼 1 分鐘就上碟，淋少少蠔油。簡單最好食。",
+          "水开后加少许油和盐，焯 1 分钟就出锅，淋少许蚝油。简单最好吃。",
+          "Blanch for one minute with a drop of oil and a pinch of salt, then a drizzle of oyster sauce."
+        ]
+      },
+      "carrot": {
+        "e": "🥕",
+        "n": [
+          "彩虹紅蘿蔔",
+          "彩虹胡萝卜",
+          "Rainbow Carrot"
+        ],
+        "d": [
+          "你唔跟潮流，你自己就係潮流！就好似紫色、黃色嘅傳統紅蘿蔔，你嘅獨特就係你嘅超能力。",
+          "你不跟潮流，自己就是潮流！就像紫色、黄色的传统胡萝卜，你的独特就是你的超能力。",
+          "You don't follow trends — you are the trend. Like heritage purple and yellow carrots, being different is your superpower."
+        ],
+        "cook": [
+          "連皮洗乾淨，切絲快炒或者慢火炆。紫、黃、橙都得，唔使執靚。",
+          "连皮洗净，切丝快炒或者慢火炖。紫、黄、橙都可以，不用挑样子。",
+          "Scrub and keep the skin. Stir-fry shreds or braise slowly. Purple, yellow or orange — wonky is welcome."
+        ]
+      }
+    }
+  },
+  "market": {
+    "name": {
+      "tc": "中環農墟",
+      "sc": "中环农墟",
+      "en": "Central Farmer's Market"
+    },
+    "when": {
+      "tc": "逢星期日 11:00 – 17:00",
+      "sc": "逢星期日 11:00 – 17:00",
+      "en": "Every Sunday, 11am – 5pm"
+    },
+    "where": {
+      "tc": "中環天星碼頭七號碼頭",
+      "sc": "中环天星码头七号码头",
+      "en": "Star Ferry Pier No. 7, Central"
+    },
+    "organiser": {
+      "tc": "嘉道理農場暨植物園",
+      "sc": "嘉道理农场暨植物园",
+      "en": "Kadoorie Farm & Botanic Garden"
+    },
+    "since": {
+      "tc": "由 2007 年開始",
+      "sc": "自 2007 年起",
+      "en": "Since 2007"
+    },
+    "marketDay": 0,
+    "openTime": "11:00",
+    "closeTime": "17:00",
+    "mapLink": "https://www.google.com/maps/search/?api=1&query=Central+Pier+7+Hong+Kong",
+    "instagram": "https://www.instagram.com/sikgather_organic"
+  }
+}
