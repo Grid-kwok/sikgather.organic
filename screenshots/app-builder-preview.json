@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "惜聚田耕 SikGather | 中環農墟",
+      "hasCanvas": false,
+      "bodyTextLen": 1344,
+      "bodyTextHash": "d13b5eb66a291f7a7422dcce85eca02ae4b7bf17468cde7a6d75ca65c49a6c30",
+      "bodyTextPrefix": "惜聚田耕 中環農墟 · 數碼平台 首頁 為何選有機 有機冷知識 迷你遊戲 繁 简 EN 惜聚田耕 由田間到餐桌，一起惜食、聚首、",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "惜聚田耕 SikGather | 中環農墟",
+      "hasCanvas": false,
+      "bodyTextLen": 1334,
+      "bodyTextHash": "28ae40ff6d85794aa97d74acbff7cf754e320e1287f84a9e7bbb98402002130b",
+      "bodyTextPrefix": "惜聚田耕 首頁 為何選有機 有機冷知識 迷你遊戲 繁 简 EN ☰ 惜聚田耕 由田間到餐桌，一起惜食、聚首、耕耘 中環農墟的數碼",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
